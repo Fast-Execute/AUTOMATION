@@ -1,0 +1,5 @@
+.env
+.env.*
+*.local
+.supabase/
+node_modules/
